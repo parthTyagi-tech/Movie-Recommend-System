@@ -213,6 +213,7 @@ Pillow>=9.0.0
 <div align="center">
 
 Made with ❤️ by **Parth Tyagi**
+![screenshot](https://github.com/user-attachments/assets/9813f57b-e381-450f-8a81-073b82bf75b7)
 
 ⭐ **Star this repo if you found it useful!**
 
