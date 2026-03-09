@@ -2,7 +2,8 @@
 
 # 🎬 CineMatch — Movie Recommendation System
 
-![screenshot](https://github.com/user-attachments/assets/9c7d6d38-5dce-4f8f-855e-a926e77c2819)
+<img width="1482" height="851" alt="movie" src="https://github.com/user-attachments/assets/8b5578e2-7ef9-4ae2-a9ea-ecfef00727e8" />
+
 
 <br/>
 
