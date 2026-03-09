@@ -2,7 +2,7 @@
 
 # 🎬 CineMatch — Movie Recommendation System
 
-<img src="screenshot.png" alt="CineMatch App Screenshot" width="100%" style="border-radius:12px;"/>
+![screenshot](https://github.com/user-attachments/assets/9c7d6d38-5dce-4f8f-855e-a926e77c2819)
 
 <br/>
 
@@ -213,7 +213,7 @@ Pillow>=9.0.0
 <div align="center">
 
 Made with ❤️ by **Parth Tyagi**
-![screenshot](https://github.com/user-attachments/assets/9813f57b-e381-450f-8a81-073b82bf75b7)
+
 
 ⭐ **Star this repo if you found it useful!**
 
